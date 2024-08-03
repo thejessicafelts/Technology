@@ -1,4 +1,4 @@
-# **Technology**
+# **Technology and Games**
 
 Projects relating to Technology.<br/>
 Games will be included in this category.
