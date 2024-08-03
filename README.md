@@ -1,7 +1,7 @@
 # **Technology and Games**
 
-Projects relating to Technology.<br/>
-Games will be included in this category.
+Projects relating to Technology.<br/><br/>
+Code Snippets, UI Components, In-Browser Games, and others will be included here.
 
 <br/>
 
